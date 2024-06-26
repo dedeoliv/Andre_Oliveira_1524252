@@ -1,0 +1,50 @@
+{
+  "contatos": [
+    {
+      "nome": "André Santos Oliveira",
+      "telefone": "(31) 99693-6569",
+      "email": "dedeoliveira96@gmail.com",
+      "cidade": "Belo Horizonte",
+      "categoria": "amigos",
+      "website": "Site Pessoal",
+      "id": 1
+    },
+  
+  ],
+  "usuarios": [
+    {
+      "id": "",
+      "login": "",
+      "senha": "",
+      "nome": "",
+      "email": ""
+    },
+
+  ],
+  "locais": [
+    {
+      "id": 1,
+      "descricao": "",
+      "endereco": "",
+      "favorito": true,
+      "cidade": "",
+      "latlong": [
+        -43.992911,
+        -19.923564
+      ],
+      "url": "",
+      "cor": ""
+    },
+    
+  "lancamentos": [
+    {
+      "mes": "",
+      "categoria": "",
+      "valor": 
+    },
+   
+  ],
+  "cidades": [
+       { "id": 1, "cidade": "", "estado": "", "populacao":  },
+      
+   ]
